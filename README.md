@@ -1,4 +1,4 @@
-# vue-gojs
+# vue-gojs-demo
 
 > A Vue.js project
 
